@@ -1,0 +1,6 @@
+outs:
+- md5: fcb549b719f0077bb277c1db61013451.dir
+  size: 514289
+  nfiles: 4
+  hash: md5
+  path: app
